@@ -1,4 +1,0 @@
-class a()
-{
-	" HEllo Everyone "
-}
