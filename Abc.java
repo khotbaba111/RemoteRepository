@@ -4,7 +4,7 @@ public class Abc
 	{
 		for(int=1; i<=10; i++)
 		{
-			System.out.println("HI");
+			System.out.println("HI okay");
 		}
 	}
 }	
